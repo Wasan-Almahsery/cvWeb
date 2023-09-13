@@ -1,0 +1,68 @@
+.imgcv
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 45%;
+}
+body
+{
+    background-color: rgb(152, 123, 182);
+}
+.name
+{
+    font-size: 45px;
+    color: white;
+    text-transform: capitalize;
+}
+.bgcpe
+{
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+.info
+{
+    color: rgb(51, 46, 46);
+}
+.edu
+{
+    color: rgb(51, 46, 46);
+}
+.p1
+{
+    font-size: 22px;
+    color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+.about
+{
+    color: rgb(51, 46, 46);
+}
+.p2
+{
+    font-size: 22px;
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.tra
+{
+    color: rgb(51, 46, 46);
+}
+.courses
+{
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
+.skills
+{
+    color: rgb(51, 46, 46);
+}
+.pwm
+{
+    font-size: 20px;
+    color: white;
+    line-height: 30px;
+}
